@@ -1,0 +1,38 @@
+{
+  "search_engines": [
+    {
+      "name": "Microsoft Bing",
+      "url": "https://www.bing.com/indexnow",
+      "meta": "https://www.bing.com/indexnow/meta.json"
+    },
+    {
+      "name": "Yandex",
+      "url": "https://yandex.com/indexnow",
+      "meta": "https://www.yandex.com/indexnow/meta.json"
+    },
+    {
+      "name": "Seznam",
+      "url": "https://www.seznam.cz/indexnow",
+      "meta": "https://search.seznam.cz/indexnow/meta.json"
+    },
+    {
+      "name": "Naver",
+      "url": "https://searchadvisor.naver.com/indexnow",
+      "meta": "https://searchadvisor.naver.com/indexnow/meta.json"
+    },
+    {
+      "name": "Yep",
+      "url": "https://indexnow.yep.com/indexnow",
+      "meta": "https://indexnow.yep.com/indexnow/meta.json"
+    },
+    {
+      "name": "Internet Archive",
+      "url": "https://web-static.archive.org/indexnow",
+      "meta": "https://web-static.archive.org/indexnow/meta.json"
+    },
+    {
+      "name": "IndexNow",
+      "url": "https://api.indexnow.org/indexnow"
+    }
+  ]
+}

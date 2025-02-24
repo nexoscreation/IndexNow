@@ -1,0 +1,31 @@
+# Ignore environment configuration files
+config/settings.env
+
+# Ignore log files
+# logs/*.log
+# logs/
+
+# Ignore temporary or cache files
+*.tmp
+*.cache
+
+# Ignore URLs files
+# urls.txt
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore shell history and compiled binaries
+*.sh.history
+*.bash_history
+*.out
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore Git-related metadata
+.git/
